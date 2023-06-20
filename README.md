@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @enricforn
-- 👀 I’m interested in technology and cycling
-- 🌱 I’m currently learning about platform ecosystems
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me enricfj AT gmail.com
 
 <!---
